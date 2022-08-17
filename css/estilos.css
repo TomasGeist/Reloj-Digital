@@ -1,0 +1,31 @@
+#fondo{
+    background-image: url(/Imagenes/Escritorio.png);
+    max-height: 100%;
+}
+
+.container{
+    font-family: 'Inconsolata';
+    font-size: 53px;
+    text-shadow: 0px 0px 1px #333;
+}
+
+.reloj{
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    max-width: 350px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 10%;
+    
+}
+
+#fecha{
+    letter-spacing: 10px;
+    font-size: 20px;
+
+}
+
+.animar{
+    border: rgb(0, 0, 0) 2px solid;
+}
